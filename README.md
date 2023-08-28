@@ -1,4 +1,4 @@
-### Hi there 👋
+### Glad you're here 👋
 
 <!--
 **bellaignacio/bellaignacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
