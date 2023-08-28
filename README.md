@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Introduction
 
 - 🔭 I’m currently working on [...](https://keeping-up.onrender.com/) - A to-do list application inspired by Instagram that allows users to share their personalized lists with their friends & family!
