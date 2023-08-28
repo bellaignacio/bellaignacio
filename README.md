@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Introduction
+
+- 🔭 I’m currently working on [...](https://keeping-up.onrender.com/) - A to-do list application inspired by Instagram that allows users to share their personalized lists with their friends & family!
+- 📫 How to reach me: [...](http://www.linkedin.com/in/aurora-ignacio)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I've been working in food service roles since 2016, and I love it! (The food is just one of many perks!)
+
+# Languages, Frameworks, Tools, Etc.
+
+- JavaScript
+- Python
+- HTML5
+- CSS3
+- React.js
+- Redux.js
+- Express.js
+- Flask
+- SQLAlchemy
+- Sequelize
