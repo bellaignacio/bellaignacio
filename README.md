@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Keeping Up](https://keeping-up.onrender.com/) - a to-do list application inspired by Instagram that allows users to share their personalized lists with their friends & family!
 - 📫 How to reach me: [LinkedIn](http://www.linkedin.com/in/aurora-ignacio)
-- 🌱 My portfolio site: [Aurora Ignacio](https://bellaignacio.github.io/aurora-porfolio/)
+- 🌱 My portfolio site: [Aurora Ignacio // Software Engineer](https://bellaignacio.github.io/aurora-porfolio/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I've been working in food service roles since 2016, and I absolutely love every moment of it! (The food is just one of many perks!)
 
